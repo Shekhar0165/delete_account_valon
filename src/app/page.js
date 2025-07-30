@@ -173,7 +173,7 @@ const Home = () => {
             <div className="text-center mb-6">
               <Phone className="w-12 h-12 text-blue-500 mx-auto mb-3" />
               <h2 className="text-2xl font-semibold text-gray-800">Enter Your Phone Number</h2>
-              <p className="text-gray-600 mt-2">We'll verify your account using your registered mobile number</p>
+              <p className="text-gray-600 mt-2">We will verify your account using your registered mobile number</p>
             </div>
 
             <div className="space-y-6">
